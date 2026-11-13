@@ -6,11 +6,12 @@
 
 The tools of [SuperKernel](https://github.com/super-kernel), a component-oriented PHP framework for long-running Swoole applications. The framework's components and the developer documentation are in the [super-kernel](https://github.com/super-kernel) organization.
 
-## Tools
+## Repositories
 
-| Tool | Description |
+| Repository | Description |
 | --- | --- |
 | [skernel](https://github.com/super-kernel-tools/skernel) | Command-line project tool for SuperKernel applications: it creates, runs, builds, and packages a project. Published as a standalone binary through [GitHub Releases](https://github.com/super-kernel-tools/skernel/releases) for Linux and macOS; it needs no PHP. |
+| [runtimes](https://github.com/super-kernel-tools/runtimes) | Prebuilt PHP runtimes that SKERNEL downloads instead of building PHP on your machine, published through [GitHub Releases](https://github.com/super-kernel-tools/runtimes/releases) for Linux and macOS. |
 
 ## Documentation
 

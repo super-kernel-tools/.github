@@ -6,11 +6,12 @@
 
 这里是 [SuperKernel](https://github.com/super-kernel) 的工具。SuperKernel 是面向长驻 Swoole 应用的组件化 PHP 框架，它的组件和开发者文档在 [super-kernel](https://github.com/super-kernel) 组织。
 
-## 工具
+## 仓库
 
-| 工具 | 说明 |
+| 仓库 | 说明 |
 | --- | --- |
 | [skernel](https://github.com/super-kernel-tools/skernel) | SuperKernel 应用的命令行项目工具，用于创建、运行、构建和打包项目。以独立的二进制文件通过 [GitHub Releases](https://github.com/super-kernel-tools/skernel/releases) 发布，支持 Linux 和 macOS，不需要 PHP。 |
+| [runtimes](https://github.com/super-kernel-tools/runtimes) | SKERNEL 下载使用的预构建 PHP 运行时，有了它就不必在你的机器上构建 PHP。通过 [GitHub Releases](https://github.com/super-kernel-tools/runtimes/releases) 发布，支持 Linux 和 macOS。 |
 
 ## 文档
 
